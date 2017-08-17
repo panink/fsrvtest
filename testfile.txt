@@ -1,0 +1,2 @@
+Testing the creation of a new file to see what happens when 
+I create a new file using the editor
